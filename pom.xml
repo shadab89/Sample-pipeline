@@ -5,10 +5,10 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.javatechie</groupId>
-    <artifactId>sample-pipeline</artifactId>
+    <artifactId>Sample-pipeline</artifactId>
     <version>1.0-SNAPSHOT</version>
 <build>
-    <finalName>sample-pipeline</finalName>
+    <finalName>Sample-pipeline</finalName>
 </build>
 
 </project>
